@@ -225,6 +225,16 @@ main {
     border-radius: 100vmax;
 }
 
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: .90rem;
+    font-weight: 600;
+    color: black; 
+}
+
 
 /* Aquí comienzan los colores de botones según tipo */
 .normal {
